@@ -1,0 +1,42 @@
+.App {
+  position: relative;
+}
+.light-blue {
+  background-color: #016fdf;
+}
+.light-blue > a {
+  color: #fff !important;
+}
+.mg-top-60 {
+  margin-top: 60px;
+}
+.light-blue table thead > tr {
+  background-color: #016fdf;
+}
+.App table thead tr {
+  background-color: #016fdf;
+  color: #fff;
+}
+.App table thead th {
+  vertical-align: middle;
+}
+.App table .form-group {
+  margin-bottom: 0px;
+}
+.mg-top-btm-60 {
+  margin-top: 60px;
+  margin-bottom: 60px !important;
+}
+.navbar-brand > a {
+  color: #fff;
+}
+.navbar-brand > a:hover {
+  text-decoration: none;
+  color: #fff;
+}
+.custom-switch {
+  padding-left: 0px !important;
+}
+.container > button {
+  position: absolute;
+}
